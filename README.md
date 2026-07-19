@@ -28,5 +28,5 @@ To extract meaningful insights from complex biomedical datasets, I develop custo
 
 ## Connect with me
 - **Professional:** [LinkedIn](https://www.linkedin.com/in/benjamin-le-gac-b771a9105)
-- **Academic:** [ORCID iD](https://orcid.org/0000-0002-4703-6217)
+- **Academic:** [ORCID iD](https://orcid.org/0000-0002-4703-6217) | [Google Scholar](https://scholar.google.com/citations?user=TyNPSq0AAAAJ&hl=fr) | [Research Gate](https://www.researchgate.net/profile/Benjamin-Le-Gac)
 - **Location:** Montréal, QC, Canada
