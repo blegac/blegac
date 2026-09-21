@@ -1,8 +1,10 @@
 # Benjamin Le Gac
 
-I am a Postdoctoral Researcher in Pharmacology and Physiology at the Université de Montréal. My work bridges the gap between advanced experimental biology and computational data analysis, with a strong commitment to open science and reproducible research.
+I am a Postdoctoral Researcher in Pharmacology and Physiology at the Université de Montréal. My work bridges advanced experimental biology with computational data analysis, driven by a commitment to open science, knowledge sharing, and reproducible research.
 
-> **My Philosophy:** It is important to me to combine effective data collection, based on careful planning, with the production of robust charts and conclusions through solid analytical pipelines.
+Here, I share custom code, analysis pipelines, and workflow automation tools to help streamline data processing and support the broader scientific community.
+
+> **My Philosophy:** Knowledge belongs in the open. I believe that thoughtful experimental planning, combined with transparent, robust, and reproducible analytical pipelines, is key to generating reliable scientific insights.
 
 ---
 
