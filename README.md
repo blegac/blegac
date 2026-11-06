@@ -4,7 +4,7 @@ I am a Postdoctoral Researcher in Pharmacology and Physiology at the Université
 
 Here, I share custom code, analysis pipelines, and workflow automation tools to help streamline data processing and support the broader scientific community.
 
-> **My Philosophy:** Knowledge belongs in the open. I believe that thoughtful experimental planning, combined with transparent, robust, and reproducible analytical pipelines, is key to generating reliable scientific insights.
+> **My Philosophy:** Knowledge belongs in the open.
 
 ---
 
